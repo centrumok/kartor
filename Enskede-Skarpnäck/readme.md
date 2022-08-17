@@ -1,1 +1,2 @@
-Framförallt Linus Risplings projekt.
+## Om kartan
+Kartan har ritats av Linus Rispling
